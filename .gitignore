@@ -1,0 +1,4 @@
+# Ignorer les fichiers de données lourds
+data/
+*.csv
+
